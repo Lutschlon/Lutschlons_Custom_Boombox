@@ -1,0 +1,10 @@
+{
+    "name": "Lutschlons_Custom_Boombox",
+    "version_number": "0.0.1",
+    "website_url": "https://github.com/thunderstore-io",
+    "description": "Plans to add mutiple Boomboxes with different Genres for me and my friends. Still WIP",
+    "dependencies": [
+        "Alice-YourOwnPersonalBoombox-1.4.2"
+	
+    ]
+}
