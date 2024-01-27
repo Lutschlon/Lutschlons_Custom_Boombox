@@ -1,6 +1,6 @@
 {
     "name": "Lutschlons_Custom_Boombox",
-    "version_number": "0.0.2",
+    "version_number": "0.0.3",
     "website_url": "https://github.com/thunderstore-io",
     "description": "Currently adds a Fortnite themed boombox. Still WIP",
     "dependencies": [
