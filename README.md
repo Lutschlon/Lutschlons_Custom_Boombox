@@ -1,8 +1,8 @@
-# This mod is still work in progress. 
-#### Currently adds a Fortnite themed boombox.
+## This mod is still work in progress. 
+#### Currently adds a Fortnite themed boombox with 20 emote/lobby songs. Audio files are compressed and currently take up 23.5mb I tried to cut all files so they loop well.
 ## Song List:
 
-#### Dynamic Shuffle Emote Audio .mp3
+##### Dynamic Shuffle Emote Audio .mp3
 #### Hot Marat Emote Audio .mp3
 #### Hype Emote Audio .mp3
 #### Pop Lock Emote Audio .mp3
