@@ -1,26 +1,27 @@
 # This mod is still work in progress. 
 #### Currently adds a Fortnite themed boombox.
 ## Song List:
-####Dynamic Shuffle Emote Audio .mp3
-####Hot Marat Emote Audio .mp3
-####Hype Emote Audio .mp3
-####Pop Lock Emote Audio .mp3
-####Pumpernickel - Music Emote Audio .mp3
-####Tidy Emote Audio (mp3cut .mp3
-####Twist Emote Audio .mp3
-####Zany Emote Audio .mp3
-####AfterBurner Lobby Music (Season 9 Music Pack).mp3
-####Billy Listen Lobby Music (Billy Bounce Emote)(compressed).mp3
-####Disco Lobby Music (Season 7).mp3
-####Electro-fied Lobby Music (Electro Swing Remix).mp3
-####Freestylin' Remix Lobby Music (Freestylin Emote).mp3
-####Justice Lobby Music (Orange Justice Remix).mp3
-####Limitless Lobby Music (Overdrive Emote).mp3
-####Marathon Lobby Music (Running Man Remix).mp3
-####Old School Anthem Lobby Music (Season 5 Music Pack).mp3
-####Solid Groove Lobby Music (Chapter 2 Music Pack).mp3
-####Squeaky Clean Lobby Music (Season 6).mp3
-####The Crackdown Lobby Music (Crackdown Remix).mp3
+
+#### Dynamic Shuffle Emote Audio .mp3
+#### Hot Marat Emote Audio .mp3
+#### Hype Emote Audio .mp3
+#### Pop Lock Emote Audio .mp3
+#### Pumpernickel - Music Emote Audio .mp3
+#### Tidy Emote Audio (mp3cut .mp3
+#### Twist Emote Audio .mp3
+#### Zany Emote Audio .mp3
+#### AfterBurner Lobby Music (Season 9 Music Pack).mp3
+#### Billy Listen Lobby Music (Billy Bounce Emote)(compressed).mp3
+#### Disco Lobby Music (Season 7).mp3
+#### Electro-fied Lobby Music (Electro Swing Remix).mp3
+#### Freestylin' Remix Lobby Music (Freestylin Emote).mp3
+#### Justice Lobby Music (Orange Justice Remix).mp3
+#### Limitless Lobby Music (Overdrive Emote).mp3
+#### Marathon Lobby Music (Running Man Remix).mp3
+#### Old School Anthem Lobby Music (Season 5 Music Pack).mp3
+#### Solid Groove Lobby Music (Chapter 2 Music Pack).mp3
+#### Squeaky Clean Lobby Music (Season 6).mp3
+#### The Crackdown Lobby Music (Crackdown Remix).mp3
 
 
 #### Iam planning to add additional boom boxes with meme songs and what not.
