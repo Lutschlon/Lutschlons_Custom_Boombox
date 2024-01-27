@@ -21,6 +21,8 @@
 ##### Solid Groove Lobby Music (Chapter 2 Music Pack).mp3
 ##### Squeaky Clean Lobby Music (Season 6).mp3
 ##### The Crackdown Lobby Music (Crackdown Remix).mp3
+##### Leviathan - Chug Jug With You
+##### Fortnite battle pass song
 
 #
 #### Iam planning to add additional boom boxes with meme songs and what not.
