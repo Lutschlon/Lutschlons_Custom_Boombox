@@ -1,6 +1,6 @@
 {
     "name": "Lutschlons_Custom_Boombox",
-    "version_number": "0.0.4",
+    "version_number": "0.0.5",
     "website_url": "https://github.com/Lutschlon/Lutschlons_Custom_Boombox",
     "description": "Currently adds a Fortnite themed boombox with 20 songs.",
     "dependencies": [
