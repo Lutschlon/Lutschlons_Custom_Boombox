@@ -1,10 +1,13 @@
 {
     "name": "Lutschlons_Custom_Boombox",
-    "version_number": "0.0.1",
+    "version_number": "0.0.2",
     "website_url": "https://github.com/thunderstore-io",
-    "description": "Plans to add mutiple Boomboxes with different Genres for me and my friends. Still WIP",
+    "description": "Currently adds a Fortnite themed boombox. Still WIP",
     "dependencies": [
-        "Alice-YourOwnPersonalBoombox-1.4.2"
+        "Alice-YourOwnPersonalBoombox-1.4.2",
+	"FutureSavior-Boombox_Sync_Fix-1.1.2",
+	"Steven-Custom_Boombox_Music-1.4.0",
+	"CodeEnder-Custom_Boombox_Fix-1.2.2"
 	
     ]
 }
