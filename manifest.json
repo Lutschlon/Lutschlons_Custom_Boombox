@@ -2,7 +2,7 @@
     "name": "Lutschlons_Custom_Boombox",
     "version_number": "0.0.3",
     "website_url": "https://github.com/thunderstore-io",
-    "description": "Currently adds a Fortnite themed boombox. Still WIP",
+    "description": "Currently adds a Fortnite themed boombox with 20 songs.",
     "dependencies": [
         "Alice-YourOwnPersonalBoombox-1.4.2",
 	"FutureSavior-Boombox_Sync_Fix-1.1.2",
