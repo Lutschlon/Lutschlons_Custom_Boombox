@@ -1,4 +1,4 @@
-#### Currently adds a Fortnite themed boombox with 20 emote/lobby songs. Audio files are compressed and currently take up 23.5mb I tried to cut all files so they loop well.
+#### Currently adds a Fortnite themed boombox with 22 emote/lobby songs. Audio files are compressed and currently take up 26mb I tried to cut all files so they loop well.
 ## Song List:
 
 ##### Dynamic Shuffle Emote Audio .mp3
