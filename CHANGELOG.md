@@ -1,3 +1,5 @@
+## 0.0.5
+#### - Fixed Boombox name, upped the volume and added a decal.
 ## 0.0.4
 #### - fixed folder structure... again
 ## 0.0.3
