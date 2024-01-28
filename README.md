@@ -1,5 +1,6 @@
-#### Currently adds a Fortnite themed boombox with 22 emote/lobby songs. Audio files are compressed and currently take up 26mb I tried to cut all files so they loop well.
-## Song List:
+#### Adds a Boombox with many songs from FM 69 with some changes (41 Songs, ~70mb) .
+#### Adds a Fortnite themed boombox with 22 emote/lobby songs (~22mb). I tried to cut all files so they loop well.
+#### Fortnite Song List:
 
 ##### Dynamic Shuffle Emote Audio .mp3
 ##### Hot Marat Emote Audio .mp3
@@ -30,3 +31,4 @@
 
 #### The guide from Alice from YourOwnPersonalBoombox made this small project possible for me. If you want to create your own mod his mod page is a good place to start. https://thunderstore.io/c/lethal-company/p/Alice/YourOwnPersonalBoombox/
 #### Also Check out the Wiki: https://lethal.wiki/dev/overview
+#### Check out CustomBoomBox Cazzate FM 69 from daddykainen https://thunderstore.io/c/lethal-company/p/daddykainen/CustomBoomBox_Cazzate_FM_69/
