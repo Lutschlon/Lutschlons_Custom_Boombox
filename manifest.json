@@ -1,8 +1,8 @@
 {
     "name": "Lutschlons_Custom_Boombox",
-    "version_number": "0.0.5",
+    "version_number": "0.0.6",
     "website_url": "https://github.com/Lutschlon/Lutschlons_Custom_Boombox",
-    "description": "Currently adds a Fortnite themed boombox with 22 songs. (only ~26mb)",
+    "description": "Currently adds a Fortnite themed boombox and a personal selection with additions of the 69 FM Boombox.",
     "dependencies": [
         "Alice-YourOwnPersonalBoombox-1.4.2",
 	"FutureSavior-Boombox_Sync_Fix-1.1.2",
