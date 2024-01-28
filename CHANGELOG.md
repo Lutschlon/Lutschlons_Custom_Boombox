@@ -1,3 +1,5 @@
+## 0.0.6
+#### - Added 69FM.2 with 41 Songs - It has some songs from the Mod 69 FM and some songs i added. Audio not normalized. But i compressed the audio files. (~70mb for this Boombox)
 ## 0.0.5
 #### - Fixed Boombox name, upped the volume, changed Fortnite color and added a decal.
 #### - added 2 more songs
